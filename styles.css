@@ -5,3 +5,11 @@ nav ul {
     width: 1.4em;
     background-color: #333241;
 }
+nav li a {
+    display: block;
+    color: #000;
+    text-decoration: none;
+}
+nav li a:hover {
+    background-color: #56546e;
+}
